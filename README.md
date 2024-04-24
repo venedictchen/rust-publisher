@@ -10,3 +10,7 @@
 
 - The publisher sent 5 event to the message broker. Those event later consumed and processed by the subscriber. 
 ![alt text](SendEvent.jpeg)
+
+
+- Lonjakan pada grafik menunjukkan kecepatan pesan yang mengukur berapa banyak pesan yang dikirim pada channel dalam interval waktu. Dikarenakan publisher mengirimkan beberapa pesan ke message broker, rate message meningkat sehingga terjadi spike pada grafik.
+![alt text](Spike.jpeg)
