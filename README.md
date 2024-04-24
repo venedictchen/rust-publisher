@@ -7,3 +7,6 @@
     - Itu berarti subscriber dan publisher memiliki broker yang sama digunakan untuk `messaging` antar subscriber dan publisher.
 
 ![alt text](RabbitMQ.jpeg)
+
+- The publisher sent 5 event to the message broker. Those event later consumed and processed by the subscriber. 
+![alt text](SendEvent.jpeg)
